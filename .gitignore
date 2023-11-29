@@ -1,3 +1,9 @@
 .DS_Store
+<<<<<<< HEAD
 Train/
 env/
+=======
+Train/*
+Data/
+>>>>>>> 8bb5705690cd40d4e06d34dab98630e9be308ff5
+TestData/
