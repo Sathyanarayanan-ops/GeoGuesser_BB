@@ -1,4 +1,7 @@
+
 # GeoGuesser_BB
+
+# (Update) Main code can be found in 
 This is a CNN model that does the popular TikTok game Geoguesser, in the town of Blacksburg, Virginia 
 
 Geo-guesser is a famous game that picked up throughout the internet where the player guess's where a certain image is taken from based on no information but the image. Apart from being a hobby, this is primary test in CIA exams as well as in military, knowing the location based off a single image. So, we familiarized this game by making a Convolution Neural Network (CNN) model that can identify where the input picture was taken in Blacksburg, Virginia. The approach we took is first preparing datasets with images throughout Blacksburg and then labelling them. This data is fed to a CNN model that can learn to identify based on this labelled input data. The result is that we feed an image to it, and it gives us a ballpark result as to the area we are in, for E.g. feeding an input image of Torgersen bridge should give the result: 'squires student center'. 
